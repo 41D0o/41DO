@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagen-light.png#gh-light-mode-only">
-  <img src="imagen-dark.png#gh-dark-mode-only">
+  <img src="black">
+  41DO
+  ![fondo negro](https://via.placeholder.com/1200x400/000000/000000)
 </p>
-41DO
