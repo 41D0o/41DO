@@ -1,2 +1,1 @@
-Hello Friend
---- 41DO ---
+Hello Friend //41DO
